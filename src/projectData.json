@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Ray Tracing",
+    "image": "/table.jpg",
+    "techstack": ["C++", "OpenGL"],
+    "description": "Generated realistic images using ray tracing techniques and the Phong Shading model, enhancing the visual effects. Utilized triangle and sphere coordinates, considering the local illumination of the image and using light source color data to ray trace the image accurately."
+  },
+  {
+    "title": "Roller Coaster Simulation",
+    "image": "https://drive.google.com/file/d/119f1z2BhR06PZ5XEYJ7a-UChd6mjGvAx/preview",
+    "techstack": ["C++", "OpenGL"],
+    "description": "Designed and developed a visually engaging roller coaster project, incorporating spline construction, first-person camera movement, and additional textures and shaders for an immersive experience."
+  },
+  {
+    "title": "Heightmaps",
+    "image": "https://drive.google.com/file/d/1bff3CujL3Ge2T0i3dI0jK86aQycnSbdU/preview",
+    "techstack": ["C++", "OpenGL"],
+    "description": "Developed a functional graphics project that incorporated heightfield extraction, camera movement, and mode switch, demonstrating proficiency in image processing, computer graphics, and user interface design."
+  },
+  {
+    "title": "Physics System",
+    "image": "https://drive.google.com/file/d/161RMZqHTc1WF56u29Zke-LU3_dTBVODH/preview",
+    "techstack": ["C++", "DirectX"],
+    "description": "Implemented sphere vs box mesh collision detection algorithms and optimized for performance. Designed and integrated a physics-based gravity simulation system, optimizing parameters for a seamless and realistic user experience."
+  },
+  {
+    "title": "Real-Time Strategy Component",
+    "image": "https://drive.google.com/file/d/1JY3JJTQkmur0BGokkf4jx7gLLLZ4O4Zi/preview",
+    "techstack": ["C++", "DirectX"],
+    "description": "Developed real-time strategy functionality allowing players to command and coordinate multiple soldiers, enabling strategic movement and engagement against waves of enemies."
+  },
+  {
+    "title": "Space Invaders",
+    "image": "https://drive.google.com/file/d/1g4zG_K4aq4Xcwnpe7lhn8-A6aGJ7F8P5/preview",
+    "techstack": ["C#", "Unity"],
+    "description": "Created a captivating 2D space invaders game with dynamic ship movement and alien destruction mechanics, featuring intuitive controls and challenging gameplay elements. Programmed intelligent enemy AI with random left-right movement and implemented an interactive power-up system to enhance player abilities, resulting in an immersive and exciting gaming experience."
+  }
+]
