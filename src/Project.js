@@ -5,7 +5,7 @@ const Project = ({ title, image, techstack, description }) => {
   const [expanded, setExpanded] = useState(false);
 
   const toggleExpansion = () => {
-    window.preventDefault();
+    event.preventDefault()
     setExpanded(!expanded);
   };
 
@@ -32,7 +32,7 @@ const Project = ({ title, image, techstack, description }) => {
         <p className={`card-text ${expanded ? "expanded" : ""}`}>
           {description}
         </p>
-        {description.length > 400 && (
+        {description.length > 200 && (
           <a
             href="#"
             className="btn btn-link"

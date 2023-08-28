@@ -1,7 +1,7 @@
 [
   {
     "title": "Ray Tracing",
-    "image": "/table.jpg",
+    "image": "    https://drive.google.com/file/d/1EE7iDfByDxPks-vsIu-wZg0zORfJwR4r/preview",
     "techstack": ["C++", "OpenGL"],
     "description": "Generated realistic images using ray tracing techniques and the Phong Shading model, enhancing the visual effects. Utilized triangle and sphere coordinates, considering the local illumination of the image and using light source color data to ray trace the image accurately."
   },
