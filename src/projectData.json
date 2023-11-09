@@ -34,5 +34,23 @@
     "image": "https://drive.google.com/file/d/1g4zG_K4aq4Xcwnpe7lhn8-A6aGJ7F8P5/preview",
     "techstack": ["C#", "Unity"],
     "description": "Created a captivating 2D space invaders game with dynamic ship movement and alien destruction mechanics, featuring intuitive controls and challenging gameplay elements. Programmed intelligent enemy AI with random left-right movement and implemented an interactive power-up system to enhance player abilities, resulting in an immersive and exciting gaming experience."
+  },
+  {
+    "title": "Viral Volley",
+    "image": "https://drive.google.com/file/d/1nlI39uvsjL3xeGwP4qFpazVECSIiE_gg/preview",
+    "techstack": ["C#", "Unity"],
+    "description": "In a unique twist on turn-based strategy, players must catapult their units onto an infected game board to strategically deploy a cure as they battle to save the world from a viral outbreak in this innovative and challenging gaming experience"
+  },
+  {
+    "title": "ColorCascade: The Platformer Saga",
+    "image": "https://youtu.be/lsgOL1EyuAE",
+    "techstack": ["C#", "Unity"],
+    "description": "Leap through a vibrant world where every color is power! In this platformer adventure, master the art of platform-hoping to harness unique abilities from each hue, defeat colorful enemies, and paint your path to victory in a quest to reach the finish line!"
+  },
+  {
+    "title": "Jizo no Akumu",
+    "image": "https://drive.google.com/file/d/1G43s7BUwYLHi5rHfvlDj71fTz-2lD0yO/preview",
+    "techstack": ["C#", "Unity"],
+    "description": "A 3D Psychological Horror Game about discovering Jizo families' dark secrets  and what is hunting her family by using your Astral Projection abilities to navigate throughout Manor. Discover the way to seal away the Baku Demon once and for all"
   }
 ]
